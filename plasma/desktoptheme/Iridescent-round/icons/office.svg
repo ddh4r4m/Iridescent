@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7384"
+   width="32"
+   height="32"
+   version="1.1"
+   style="enable-background:new"
+   sodipodi:docname="office.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#3a3a3a"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1323"
+     inkscape:window-height="744"
+     id="namedview9"
+     showgrid="true"
+     inkscape:zoom="7.2453612"
+     inkscape:cx="11.524615"
+     inkscape:cy="14.008963"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient849">
+      <stop
+         style="stop-color:#ff8000;stop-opacity:1"
+         offset="0"
+         id="stop845" />
+      <stop
+         style="stop-color:#ff1500;stop-opacity:1"
+         offset="1"
+         id="stop847" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }
+  </style>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="radialGradient853"
+       cx="16"
+       cy="16"
+       fx="16"
+       fy="16"
+       r="15"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="office-chart-pie">
+    <rect
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.514644;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+       id="rect35722"
+       width="32"
+       height="32"
+       x="-3.3789063e-05"
+       y="-3.8671874e-06" />
+    <path
+       id="path819"
+       d="M 16,1 A 15,15 0 0 0 1,16 15,15 0 0 0 16,31 15,15 0 0 0 31,16 15,15 0 0 0 16,1 Z m -6,6 h 3 c 1.090703,0 2,0.9092972 2,2 v 3 c 0,1.090703 -0.909297,2 -2,2 H 10 C 8.9092972,14 8,13.090703 8,12 V 9 C 8,7.9092972 8.9092972,7 10,7 Z m 9,0 h 3 c 1.090703,0 2,0.9092972 2,2 v 5 c 0,1.090703 -0.909297,2 -2,2 h -3 c -1.090703,0 -2,-0.909297 -2,-2 V 9 C 17,7.9092972 17.909297,7 19,7 Z M 10,8 C 9.446,8 9,8.446 9,9 v 3 c 0,0.554 0.446,1 1,1 h 3 c 0.554,0 1,-0.446 1,-1 V 9 C 14,8.446 13.554,8 13,8 Z m 9,0 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 3 c 0.554,0 1,-0.446 1,-1 V 9 C 23,8.446 22.554,8 22,8 Z m -9,8 h 3 c 1.090703,0 2,0.909297 2,2 v 5 c 0,1.090703 -0.909297,2 -2,2 H 10 C 8.9092972,25 8,24.090703 8,23 v -5 c 0,-1.090703 0.9092972,-2 2,-2 z m 0,1 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 3 c 0.554,0 1,-0.446 1,-1 v -5 c 0,-0.554 -0.446,-1 -1,-1 z m 9,1 h 3 c 1.090703,0 2,0.909297 2,2 v 3 c 0,1.090703 -0.909297,2 -2,2 h -3 c -1.090703,0 -2,-0.909297 -2,-2 v -3 c 0,-1.090703 0.909297,-2 2,-2 z m 0,1 c -0.554,0 -1,0.446 -1,1 v 3 c 0,0.554 0.446,1 1,1 h 3 c 0.554,0 1,-0.446 1,-1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z"
+       style="opacity:0.8;fill:url(#radialGradient853);fill-opacity:1;stroke:none;stroke-width:2.30769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  </g>
+</svg>

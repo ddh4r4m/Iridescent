@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg10"
+   sodipodi:docname="kup.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.221886"
+     inkscape:cx="15.832254"
+     inkscape:cy="15.995895"
+     inkscape:window-width="1323"
+     inkscape:window-height="744"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient852">
+      <stop
+         style="stop-color:#d63312;stop-opacity:1"
+         offset="0"
+         id="stop848" />
+      <stop
+         style="stop-color:#ff8d00;stop-opacity:1"
+         offset="1"
+         id="stop850" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient852"
+       id="linearGradient854"
+       x1="4"
+       y1="11"
+       x2="18"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="kup">
+    <path
+       d="M 6,2 C 4.892,2 4,2.892 4,4 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 4 C 18,2.892 17.108,2 16,2 Z M 6,4 H 7 V 6 H 6 Z M 8,4 H 9 V 6 H 8 Z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,1 h 1 v 1 h -1 z m -3,2 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z M 10.5,8 C 10.223,8 10,8.223 10,8.5 v 4 c 0,0.277 0.223,0.5 0.5,0.5 h 3 C 13.777,13 14,12.777 14,12.5 14,12.223 13.777,12 13.5,12 H 11 V 8.5 C 11,8.223 10.777,8 10.5,8 Z m 5.5,9 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
+       fill="#dedede"
+       id="path5"
+       style="fill-opacity:1;fill:url(#linearGradient854)" />
+    <path
+       d="M 0,0 H 22 V 22 H 0 Z"
+       opacity="0"
+       id="path7" />
+  </g>
+</svg>

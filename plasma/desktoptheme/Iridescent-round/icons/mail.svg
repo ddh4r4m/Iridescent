@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7384"
+   width="22"
+   height="22"
+   version="1.1"
+   style="enable-background:new"
+   sodipodi:docname="mail.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.4037163"
+     inkscape:cx="-7.8649577"
+     inkscape:cy="-20.078774"
+     inkscape:window-width="1323"
+     inkscape:window-height="744"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <defs
+     id="defs7386">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient858">
+      <stop
+         style="stop-color:#003380;stop-opacity:1"
+         offset="0"
+         id="stop854" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1"
+         offset="1"
+         id="stop856" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }
+  </style>
+    <linearGradient
+       id="linearGradient5606"
+       inkscape:swatch="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient858"
+       id="linearGradient860"
+       x1="470.00009"
+       y1="146"
+       x2="486.00009"
+       y2="146"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient858"
+       id="linearGradient944"
+       x1="3"
+       y1="-11"
+       x2="19"
+       y2="-11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient858"
+       id="linearGradient952"
+       x1="3"
+       y1="-11"
+       x2="19"
+       y2="-11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="mail-unread"
+     transform="translate(-467.00009,-135)">
+    <path
+       id="rect5719"
+       class="ColorScheme-Text"
+       d="m 472.00009,140 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -8 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"
+       style="opacity:1;fill:url(#linearGradient860);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect4138"
+       d="m 467.0002,135 h 22 v 22 h -22 z"
+       style="opacity:0;fill:#2b0000;fill-opacity:0.403922;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     id="mail-unread-new">
+    <path
+       id="path4144"
+       d="m 1.1e-4,-22 h 22 V 0 h -22 z"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4143"
+       class="ColorScheme-Text"
+       d="m 5,-17 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 11 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"
+       style="opacity:1;fill:url(#linearGradient944);fill-opacity:1.0" />
+    <path
+       id="path7"
+       class="ColorScheme-Highlight"
+       d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+       style="opacity:1;fill:#2ad4ff;fill-opacity:1" />
+  </g>
+  <g
+     id="mail-mark-unread-new"
+     transform="translate(0,-22)">
+    <path
+       id="path4166"
+       d="m 1.1e-4,-22 h 22 V 0 h -22 z"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4168"
+       class="ColorScheme-Text"
+       d="m 5,-17 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 11 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"
+       style="opacity:1;fill:url(#linearGradient952);fill-opacity:1.0" />
+    <path
+       id="path4170"
+       class="ColorScheme-Highlight"
+       d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+       style="opacity:1;fill:#2ad4ff;fill-opacity:1" />
+  </g>
+</svg>

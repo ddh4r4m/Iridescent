@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 32 16"
+   id="svg7"
+   sodipodi:docname="mobile.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.391216"
+     inkscape:cx="5.0438958"
+     inkscape:cy="4.1561701"
+     inkscape:window-width="1323"
+     inkscape:window-height="744"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient849">
+      <stop
+         style="stop-color:#c32a3a;stop-opacity:1"
+         offset="0"
+         id="stop845" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop847" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; }</style>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="radialGradient851"
+       cx="23.999069"
+       cy="7.99753"
+       fx="23.999069"
+       fy="7.99753"
+       r="6.15279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99967155,-0.02562783,0.08089021,3.1553057,-0.63903949,-16.622078)" />
+  </defs>
+  <path
+     id="mobile-task-switcher"
+     d="m4.0851 2c-1.1542 0-2.0831 0.92887-2.0831 2.0831v7.834c0 1.1542 0.92887 2.0831 2.0831 2.0831h7.834c1.1542 0 2.0831-0.92887 2.0831-2.0831v-7.834c0-1.1542-0.92888-2.0831-2.0831-2.0831zm0.24414 1.2471h7.3577c0.59385 0 1.0713 0.47842 1.0713 1.0723v7.3695c0 0.59385-0.47744 1.0723-1.0713 1.0723h-7.3577c-0.59385 0-1.0723-0.47842-1.0723-1.0723v-7.3695c0-0.59385 0.47842-1.0723 1.0723-1.0723z"
+     class="ColorScheme-Text"
+     fill="currentColor"
+     style="fill:#008080" />
+  <path
+     id="mobile-close-app"
+     d="m18.619 1.851a0.75 0.75 0 0 0-0.55273 0.21373 0.75 0.75 0 0 0 0 1.0613l4.8715 4.8715-4.8715 4.8715a0.75 0.75 0 0 0 0 1.0613 0.75 0.75 0 0 0 1.0613 0l4.8715-4.8715 4.8715 4.8715a0.75 0.75 0 0 0 1.0613 0 0.75 0.75 0 0 0 0-1.0613l-4.8715-4.8715 4.8715-4.8715a0.75 0.75 0 0 0 0-1.0613 0.75 0.75 0 0 0-1.0613 0l-4.8715 4.8715-4.8715-4.8715a0.75 0.75 0 0 0-0.50854-0.21373z"
+     class="ColorScheme-Text"
+     fill="currentColor"
+     style="fill-opacity:1;fill:url(#radialGradient851)" />
+</svg>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg33"
+   sodipodi:docname="compass.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.3405623"
+     inkscape:cx="-0.1872462"
+     inkscape:cy="11.515641"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <defs
+     id="defs16">
+    <linearGradient
+       id="linearGradient913">
+      <stop
+         stop-color="#4deb47"
+         offset="0"
+         id="stop909" />
+      <stop
+         stop-color="#ffa000"
+         offset="1"
+         id="stop911"
+         style="stop-color:#0000ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient860">
+      <stop
+         stop-color="#4deb47"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#ffa000"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11">
+      <stop
+         stop-color="#5df240"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#fff400"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+    <linearGradient
+       id="linearGradient848"
+       x2="22"
+       y1="11"
+       y2="11"
+       gradientTransform="matrix(.63636 0 0 .63636 26 1.0273)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient913" />
+    <linearGradient
+       id="linearGradient877"
+       x1="3"
+       x2="19"
+       y1="11"
+       y2="11"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient913" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient913"
+       id="linearGradient1067"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(.63636 0 0 .63636 26 1.0273)"
+       y1="11"
+       x2="35.373051"
+       y2="11.491017" />
+  </defs>
+  <g
+     id="16-16-compass">
+    <rect
+       x="25"
+       width="16"
+       height="16"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="2"
+       stroke-width="2.1333"
+       id="rect18" />
+    <path
+       class="ColorScheme-Text"
+       d="m33 1.0273c-3.866 0-7 3.1182-7 7s3.134 7 7 7 7-3.1182 7-7-3.134-7-7-7zm0 1.9727c2.7614 0 5 2.2909 5 5.0273s-2.2386 5.0273-5 5.0273-5-2.2909-5-5.0273 2.2386-5.0273 5-5.0273zm3.5 1.5273-3.5 1.1455c-1.2217 0-2.334 1.1455-2.334 2.3545l-1.166 3.5 3.5-1.1455c1.2217 0 2.334-1.1455 2.334-2.3545zm-3.5 2.3545c0.61088 0 1.166 0.50909 1.166 1.1455-1.9e-5 0.63636-0.55518 1.1455-1.166 1.1455-0.61085 0-1.166-0.50909-1.166-1.1455-3e-5 -0.63636 0.55514-1.1455 1.166-1.1455z"
+       fill="url(#linearGradient848)"
+       id="path20" />
+  </g>
+  <g
+     id="compass"
+     transform="matrix(2,0,0,2,-58,-36.055)">
+    <rect
+       x="25"
+       width="16"
+       height="16"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="2"
+       stroke-width="2.1333"
+       id="rect23"
+       y="0" />
+    <path
+       class="ColorScheme-Text"
+       d="m 33,1.0273 c -3.866,0 -7,3.1182 -7,7 0,3.8818 3.134,7 7,7 3.866,0 7,-3.1182 7,-7 0,-3.8818 -3.134,-7 -7,-7 z M 33,3 c 2.7614,0 5,2.2909 5,5.0273 0,2.7364 -2.2386,5.0273 -5,5.0273 -2.7614,0 -5,-2.2909 -5,-5.0273 C 28,5.2909 30.2386,3 33,3 Z M 36.5,4.5273 33,5.6728 c -1.2217,0 -2.334,1.1455 -2.334,2.3545 l -1.166,3.5 3.5,-1.1455 c 1.2217,0 2.334,-1.1455 2.334,-2.3545 z M 33,6.8818 c 0.61088,0 1.166,0.50909 1.166,1.1455 -1.9e-5,0.63636 -0.55518,1.1455 -1.166,1.1455 -0.61085,0 -1.166,-0.50909 -1.166,-1.1455 -3e-5,-0.63636 0.55514,-1.1455 1.166,-1.1455 z"
+       fill="url(#linearGradient848)"
+       id="path25"
+       style="fill:url(#linearGradient1067)" />
+  </g>
+  <g
+     id="22-22-compass"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="2"
+     stroke-width="2">
+    <circle
+       cx="11"
+       cy="11"
+       r="11"
+       fill="#a2c725"
+       opacity="0.25"
+       id="circle28"
+       style="opacity:0.05358243" />
+    <path
+       d="m 16.657,5.3431 a 8,8 0 0 0 -11.314,0 8,8 0 0 0 0,11.314 8,8 0 0 0 11.314,0 8,8 0 0 0 0,-11.314 z m -1.4142,1.4142 a 6,6 0 0 1 0,8.4853 6,6 0 0 1 -8.4853,0 6,6 0 0 1 0,-8.4853 6,6 0 0 1 8.4853,0 z m 0,0 -3.2731,1.4032 a 3,3 0 0 0 -3.0908,0.71816 3,3 0 0 0 -0.71816,3.0881 l -1.4032,3.2759 3.2731,-1.4032 a 3,3 0 0 0 3.0908,-0.71816 3,3 0 0 0 0.71816,-3.0881 z m -3.5355,3.5355 a 1,1 0 0 1 0,1.4142 1,1 0 0 1 -1.4142,0 1,1 0 0 1 0,-1.4142 1,1 0 0 1 1.4142,0 z"
+       fill="url(#linearGradient877)"
+       id="path30"
+       style="fill-opacity:1.0" />
+  </g>
+</svg>

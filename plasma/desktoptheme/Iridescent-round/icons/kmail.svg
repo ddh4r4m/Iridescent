@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg4153"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   width="22"
+   height="22"
+   sodipodi:docname="kmail.svg"
+   viewBox="0 0 22 22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata4159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4157">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient857">
+      <stop
+         style="stop-color:#4400aa;stop-opacity:1"
+         offset="0"
+         id="stop853" />
+      <stop
+         style="stop-color:#00a5ff;stop-opacity:1"
+         offset="1"
+         id="stop855" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient857"
+       id="linearGradient859"
+       x1="1"
+       y1="11"
+       x2="21"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#363636"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1323"
+     inkscape:window-height="744"
+     id="namedview4155"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="21.454545"
+     inkscape:cx="7.9470341"
+     inkscape:cy="10.230932"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4153"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4140" />
+    <sodipodi:guide
+       position="0,22"
+       orientation="22,0"
+       id="guide4146" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,22"
+       id="guide4148" />
+    <sodipodi:guide
+       position="22,0"
+       orientation="-22,0"
+       id="guide4150" />
+    <sodipodi:guide
+       position="22,22"
+       orientation="0,-22"
+       id="guide4152" />
+    <sodipodi:guide
+       position="3,19"
+       orientation="16,0"
+       id="guide4154" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,16"
+       id="guide4156" />
+    <sodipodi:guide
+       position="19,3"
+       orientation="-16,0"
+       id="guide4158" />
+    <sodipodi:guide
+       position="19,19"
+       orientation="0,-16"
+       id="guide4160" />
+  </sodipodi:namedview>
+  <inkscape:clipboard
+     style="opacity:0.01000001;fill:#00000f;fill-opacity:0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke:none"
+     min="0,0"
+     max="22,22" />
+  <g
+     id="kmail">
+    <path
+       id="rect4144"
+       d="m 1,3 v 1 8 6 0.414062 V 19 h 1 6 6 6 1 V 18.414062 18 12 3 H 20.951172 20 19.537109 2.4628906 2 Z m 1,1 h 0.048828 L 2.2714844,4.2226562 8.0234375,9.9765625 6,12 2,16 V 12 4.2226562 Z M 3.4628906,4 H 18.537109 L 11,11.537109 Z M 19.951172,4 H 20 V 4.2226562 12 16 L 16,12 13.976562,9.9765625 19.728516,4.2226562 Z m -11.2207032,6.683594 1.4531252,1.451172 0.814453,0.814453 h 0.002 L 11.816453,12.134766 13.269578,10.683594 14.585938,12 19.537109,16.951172 20,17.414062 V 18 H 14 8 2 V 17.414062 L 2.4628906,16.951172 7.4140625,12 Z"
+       style="opacity:1;fill:url(#linearGradient859);fill-opacity:1;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect4193"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
