@@ -1,0 +1,34 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rkstrdee@gmail.com",
+                "Name": "Dharam Dhurandhar"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Iridescent Round",
+        "Description": "A dark neon Global Theme for Plasma with transparency and rounded edges",
+        "Id": "Iridiscent-round",
+        "Version": "3.0",
+        "License": "GPL-2.0+",
+        "Website": "https://github.com/rkstrdee/Iridescent"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1639231",
+        "kns://colorschemes.knsrc/api.kde-look.org/1639228",
+        "kns://colorschemes.knsrc/api.kde-look.org/1639222",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1640895",
+        "kns://icons.knsrc/api.kde-look.org/1425426",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541309",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541305",
+        "kns://wallpaper.knsrc/api.kde-look.org/1562665",
+        "kns://wallpaper.knsrc/api.kde-look.org/1541302",
+        "kns://wallpaper.knsrc/api.kde-look.org/1640884"
+    ]
+}
